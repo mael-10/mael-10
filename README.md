@@ -1,7 +1,6 @@
 ### Hello 
 
 I'm Ismael and at the right momment I am studying Technical Systems Development at Senai CTTI. Currently I am learning Js and I'm a curious person who enjoys studying both IT and mathematics. 
-I'm attentive to the significant technological changes in the modern world.
 
 My curiosities: 
 
