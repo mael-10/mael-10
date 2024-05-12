@@ -13,7 +13,7 @@ My curiosities:
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/ismael-henrique-07bbb8279/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-henrique-07bbb8279/) 
 
 <h1 dir="auto"></h1>
 
