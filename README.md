@@ -15,7 +15,7 @@ My curiosities:
 ### 🌐 Socials:
 
 <a target="_blank" href="https://www.linkedin.com/in/ismael-henrique-07bbb8279/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="_blank" src="https://mail.google.com/mail/u/0/?fs=1&to=maelprogrammer1@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=maelprogrammer1@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h1 dir="auto"></h1>
 
