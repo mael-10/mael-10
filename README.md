@@ -5,7 +5,7 @@ I'm Ismael and at the right momment I am studying Technical Systems Development 
 My curiosities: 
 
   * Understand and study computer science and how apply that knowlegde for other areas of science.
-  * Learn physics and how to apply it on computer alghoritms.
+  * To Learn physics and how to apply it on computer alghoritms.
   *  To have a deep look on mathematics to build robust last longer knowlegde for to make "magical" stuffs.
 
 
@@ -13,7 +13,7 @@ My curiosities:
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismael ) 
+[![LinkedIn](https://www.linkedin.com/in/ismael-henrique-07bbb8279/) 
 
 <h1 dir="auto"></h1>
 
