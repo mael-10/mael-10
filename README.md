@@ -8,4 +8,4 @@ My curiosities:
   2. Learn physics and how to apply it on computer alghoritms.
   3. Have a deep look on mathematics to build robust last longer knowlegde for to make magical stuffs on computer science.
 
------
+---
