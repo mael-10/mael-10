@@ -28,6 +28,10 @@ My curiosities:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mael-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mael-10&theme=dark&hide_border=false) </br> </br>
+
+### ✅ Wakatime Stats:
+
+<img src="https://wakatime.com/share/@91df6d27-cd3b-4512-aefa-b20b15b84151/7fa7b558-878d-41c5-af6a-ddbb1f639453.svg" style="height: 420px;"/>
  
 <h1 dir="auto"></h1>
 
