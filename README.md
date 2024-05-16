@@ -29,7 +29,7 @@ My curiosities:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mael-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mael-10&theme=dark&hide_border=false) </br> </br>
 
-<img style="height:550px;" src="https://wakatime.com/share/@91df6d27-cd3b-4512-aefa-b20b15b84151/040f35eb-2a43-45af-82cb-138b3fc36357.svg"/> 
+<img style="height:500px;" src="https://wakatime.com/share/@91df6d27-cd3b-4512-aefa-b20b15b84151/040f35eb-2a43-45af-82cb-138b3fc36357.svg"/> 
  
 
 <h1 dir="auto"></h1>
