@@ -31,7 +31,7 @@ My curiosities:
 
 ### ✅ Wakatime Stats:
 
-<img src="https://wakatime.com/share/@91df6d27-cd3b-4512-aefa-b20b15b84151/7fa7b558-878d-41c5-af6a-ddbb1f639453.svg" style="height: 420px;"/>
+<img src="https://wakatime.com/share/@91df6d27-cd3b-4512-aefa-b20b15b84151/7fa7b558-878d-41c5-af6a-ddbb1f639453.svg" style="height: 380px;"/>
  
 <h1 dir="auto"></h1>
 
